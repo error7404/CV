@@ -1,0 +1,39 @@
+[1A[2K[38;5;76m❯[39m [32mglow[39m [4mexperiences.md[0m
+
+  [1m[38;5;228m[48;5;63m Expérience [0m[38;5;252m                                                       [39m
+  [38;5;252m                                                                   [39m
+  [38;5;252m• École 42 Lyon, Lyon, France               [1mNovembre 2021 - Présent[0m
+  [3m[38;5;252mDéveloppeur Étudiant[0m[38;5;252m                                               [39m
+  [2;38m  • Réalisation de divers projets axés sur la résolution de        [39m
+  [2;38m  problèmes, les algorithmes et le développement logiciel.         [39m
+  [2;38m  • Utilisation de C, C++, Python et Git dans des exercices de     [39m
+  [2;38m  codage réels.                                                    [39m
+  [2;38m  • Collaboration avec des pairs dans un apprentissage peer-to-peer,[39m
+  [2;38m  perfectionnant les compétences en travail d'équipe et en         [39m
+  [2;38m  communication.                                                   [39m
+  [2;38m                                                                   [39m
+  [2;38m                                                                   [39m
+  [2;38m--------[0m                                                           [39m
+  [38;5;252m                                                                   [39m
+  [38;5;252m• Open Source                                                      [39m
+  [3m[38;5;252mContributeur[0m[38;5;252m                                                       [39m
+  [2;38m  • Contribution au développement de divers projets open-source, y [39m
+  [2;38m  compris la création de nouvelles fonctionnalités et la correction[39m
+  [2;38m  de bugs.                                                         [39m
+  [2;38m  • Collaboration avec d'autres développeurs pour améliorer la     [39m
+  [2;38m  qualité et la fonctionnalité des logiciels.                      [39m
+  [2;38m  • Participation aux revues de code, pour fournir des commentaires[39m
+  [2;38m  et des suggestions d'amélioration aux développeurs.              [0m
+  [38;5;252m  [1mPour plus d'informations, consultez mon profil GitHub : [0m[38;5;252m         [39m
+  [38;5;252m  [1mhttps://github.com/error7404[0m[38;5;252m                                     [39m
+  [38;5;252m                                                                   [39m
+  [38;5;252m                                                                   [39m
+  [2;38m--------[0m                                                           [39m
+  [38;5;252m                                                                   [39m
+  [38;5;252m• Lycée Louis Lachenal, France          [1mSeptembre 2018 - Août 2021[0m[38;5;252m [39m
+  [3m[38;5;252mÉtudiant Développeur[0m[38;5;252m                                               [39m
+  [2;38m  • Apprentissage des bases de l'informatique, y compris la        [39m
+  [2;38m  programmation, les algorithmes et les structures de données.     [39m
+  [2;38m  • Réalisation de projets IoT et de développement mobile utilisant[39m
+  [2;38m  Flutter.                                                         [39m
+  [0m                                                                   [39m

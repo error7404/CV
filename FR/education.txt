@@ -1,0 +1,25 @@
+[1A[2K[38;5;76m❯[39m [32mglow[39m [4meducation.md[0m
+
+  [1m[38;5;228m[48;5;63m Éducation [0m[38;5;252m                                                        [39m
+  [38;5;252m                                                                   [39m
+  [38;5;252m• [1m42 Lyon[0m[38;5;252m, Lyon, France                               [1m2021 - Présent[0m
+  [2;38m  • 42 Lyon est une école de programmation informatique privée,    [39m
+  [2;38m  sans coût d'études.                                              [39m
+  [2;38m  • Elle offre un environnement d'apprentissage basé sur des       [39m
+  [2;38m  projets où les étudiants apprennent en réalisant des projets de  [39m
+  [2;38m  codage et en collaborant avec leurs pairs.                       [39m
+  [2;38m  • Le programme est conçu pour favoriser la créativité, la        [39m
+  [2;38m  résolution de problèmes et l'autodiscipline, préparant les       [39m
+  [2;38m  étudiants à des carrières dans le développement logiciel et la   [39m
+  [2;38m  technologie.                                                     [39m
+  [38;5;252m                                                                   [39m
+  [38;5;252m                                                                   [39m
+  [2;38m--------[0m                                                           [39m
+  [38;5;252m                                                                   [39m
+  [38;5;252m• [1mLycée Polyvalent Louis Lachenal[0m[38;5;252m, Argonnay, France      [1m2018 - 2021[0m
+  [2;38m  • Lycée publique, où je me suis spécialisé en NSI (numérique et  [39m
+  [2;38m  sciences de l'informatiques), Maths et Physique.                 [39m
+  [38;5;252m                                                                   [39m
+  [38;5;252m                                                                   [39m
+  [2;38m--------[0m                                                           [39m
+

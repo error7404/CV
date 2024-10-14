@@ -1,6 +1,6 @@
 # Experience
 
-- 42 Lyon School, Lyon, France              **November 2021 - Present**
+- 42 Lyon School, Lyon, France               **November 2021 - Present**
 *Student Developer*
 
   - Completed various projects with a focus on problem-solving, algorithms, and software development.
