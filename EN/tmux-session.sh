@@ -4,7 +4,7 @@
 tmux new-session -d -s CV
 
 # Resize the tmux window to simulate A4 aspect ratio
-tmux resize-window -x 116 -y 81
+tmux resize-window -x 110 -y 88
 
 # Split the terminal into a grid
 tmux split-window -v       # Horizontal split (bottom right)
@@ -20,7 +20,7 @@ tmux select-pane -t 1
 tmux select-pane -T "Profile Picture"
 
 tmux select-pane -t 2
-tmux select-pane -T "Education & Experience"
+tmux select-pane -T "Experience & Education"
 
 tmux select-pane -t 3
 tmux select-pane -T "Skills"
@@ -33,10 +33,13 @@ tmux set-option -g pane-border-format "#{pane_title}"
 tmux set-option -g pane-border-style fg=brightblue
 tmux set-option -g pane-active-border-style fg=brightblue
 
+# Disable bottom bar
+tmux set-option -g status off
+
 # Resize the profile picture pane to fit the content
 tmux resize-pane -t 1 -x 20 -y 13
 # Resize the other panes to fit the content
-tmux resize-pane -t 3 -x 44
+tmux resize-pane -t 3 -x 32
 
 # Fill in the content for each pane using echo (or use text files)
 tmux send-keys -t 0 "clear && cat contact.txt && cat" C-m
@@ -44,11 +47,11 @@ tmux send-keys -t 0 "clear && cat contact.txt && cat" C-m
 # Display the profile picture in the top right pane
 tmux send-keys -t 1 "clear && cat Profile_Picture.txt && cat" C-m
 
-tmux send-keys -t 2 "clear && cat education.txt" C-m
+tmux send-keys -t 2 "clear && cat experiences.txt" C-m
 sleep 2
-tmux send-keys -t 2 "cat experiences.txt && cat" C-m
+tmux send-keys -t 2 "cat education.txt && cat" C-m
 
-tmux send-keys -t 3 "clear && cat skills.md && tput civis && cat" C-m
+tmux send-keys -t 3 "clear && cat skills.txt && tput civis && cat" C-m
 
 # Attach to the session
 tmux attach-session -t CV

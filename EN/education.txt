@@ -1,23 +1,20 @@
 [1A[2K[38;5;76m❯[39m [32mglow[39m [4meducation.md[0m
 
-  [1m[38;5;228m[48;5;63m Education [0m[38;5;252m                                                        [39m
-  [38;5;252m                                                                   [39m
-  [38;5;252m• [1m42 Lyon[0m[38;5;252m, Lyon, France                               [1m2021 - Present[0m
-  [2;38m  • 42 Lyon is a private, nonprofit and tuition-free computer      [39m
-  [2;38m  programming school.                                              [39m
-  [2;38m  • It offers a project-based learning environment where students  [39m
-  [2;38m  learn by completing coding projects and collaborating with peers.[39m
-  [2;38m  • The curriculum is designed to foster creativity, problem-      [39m
-  [2;38m  solving, and self-discipline, preparing students for careers in  [39m
-  [2;38m  software development and technology.                             [39m
-  [38;5;252m                                                                   [39m
-  [38;5;252m                                                                   [39m
-  [2;38m--------[0m                                                           [39m
-  [38;5;252m                                                                   [39m
-  [38;5;252m• [1mLycée Polyvalent Louis Lachenal[0m[38;5;252m, Argonnay, France      [1m2018 - 2021[0m
-  [2;38m  • French high school, where I specialized in NSI(digital and     [39m
-  [2;38m  computer science), Maths and Physics.                            [39m
-  [38;5;252m                                                                   [39m
-  [38;5;252m                                                                   [39m
-  [2;38m--------[0m                                                           [39m
+  [1m[38;5;228m[48;5;63m Education [0m[38;5;252m[49m
+
+  • 42 Lyon, Lyon, France                       [1mNovembre 2021 - June 2025[0m
+    • 42 Lyon is a private, nonprofit and tuition-free computer
+    programming school.
+    • It offers a project-based learning environment where students learn
+    by completing coding projects and collaborating with peers.
+    • The curriculum is designed to foster creativity, problem-solving,
+    and self-discipline, preparing students for careers in software
+    development and technology.
+
+
+  [2;38m--------[0m
+
+  • Lycée Louis Lachenal, Argonnay, France                    [1m2018 - 2021[0m
+    • French high school, where I specialized in NSI(digital and computer
+    science), Maths and Physics.
 

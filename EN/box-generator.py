@@ -48,7 +48,7 @@ phone{DG}: (+33)7 82 18 26 03{NC}
 email{DG}: {UN}justincollon@gmail.com{NC}
 github{DG}: {UN}https://github.com/error7404{NC}
 wakatime{DG}: {UN}https://wakatime.com/@error7404{NC}
-location{DG}: {IT}73370 Le Bourget-du-Lac, France{NC}
+location{DG}: {IT}1255 Oslo, Norway{NC}
 -------------------------------------------
 """
 

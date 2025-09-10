@@ -1,35 +1,48 @@
-[1A[2K[38;5;76m❯[39m [32mglow[39m [4mexperiences.md[0m
+[38;5;76m❯[39m [32mglow[39m [4mexperiences.md[0m
 
   [1m[38;5;228m[48;5;63m Experiences [0m
-  [38;5;252m
-  [38;5;252m• 42 Lyon School, Lyon, France               [1mNovember 2021 - Present[0m
-  [3m[38;5;252mStudent Developer[0m
-  [2;38m  • Completed various projects with a focus on problem-solving,
-  [2;38m  algorithms, and software development.
-  [2;38m  • Applied C, C++, Python, and Git in real-world coding exercises.
-  [2;38m  • Collaborated with peers in peer-to-peer learning, honing teamwork
-  [2;38m  and communication skills.
-  [38;5;252m
-  [38;5;252m
+
+  • Amiltone, Lyon, France.                    [1mNovembre 2024 - April 2025[0m
+[3m[0m[3m[0m  [3mJunior Developer (internship)[0m
+    • Developed a [1mresponsive front-end[0m in [1mFlutter[0m for web, mobile, and
+    tablet, in collaboration with design and back-end teams.
+    • Integrated [1mREST APIs[0m to ensure seamless front/back-end
+    communication.
+    • Drove development [1mautonomously[0m, troubleshooting issues and
+    delivering features without direct supervision.
+
+
   [2;38m--------[0m
-  [38;5;252m
-  [38;5;252m• Open Source
-  [3m[38;5;252mContributor[0m
-  [2;38m  • Contributed to the development of various open-source projects,
-  [2;38m  including the creation of new features and bug fixes.
-  [2;38m  • Collaborated with other developers to improve the quality and
-  [2;38m  functionality of the software.
-  [2;38m  • Participated in code reviews and provided constructive feedback
-  [2;38m  to improve code quality.[0m
-  [38;5;252m[1mFor more information, check out my GitHub profile: [0m
-  [38;5;252m[1;4mhttps://github.com/error7404[0m
-  [38;5;252m
-  [38;5;252m
+
+  • 42 Lyon School, Lyon, France.               [1mNovember 2021 - June 2025[0m
+[3m[0m[3m[0m  [3mStudent Developer[0m
+    • Completed various projects with a focus on problem-solving,
+    algorithms, and software development.
+    • Applied [1mC[0m, [1mC++[0m, [1mPython[0m, and [1mGit[0m in real-world coding exercises.
+    • Collaborated with peers in [1mpeer-to-peer learning[0m, honing teamwork
+    and communication skills.
+
+
   [2;38m--------[0m
-  [38;5;252m
-  [38;5;252m• Lycée Louis Lachenal, France          [1mSeptember 2018 - August 2021[0m
-  [3m[38;5;252mStudent Developer[0m
-  [2;38m  • Learned the basics of computer science, including programming,
-  [2;38m  algorithms, and data structures.
-  [2;38m  • Completed IoT projects, and mobile development using Flutter.
-  [38;5;252m
+
+  • Open Source
+[3m[0m[3m[0m  [3mContributor[0m
+    • Contributed to the development of various [1mopen-source projects[0m,
+    including the creation of new features and bug fixes.
+    • Collaborated with other developers to improve the quality and
+    functionality of the software.
+    • Participated in [1mcode reviews[0m and provided constructive feedback to
+    improve code quality.
+[1m[0m    [1mFor more information, check out my GitHub profile: [0m
+[0m    [1;32mhttps://github.com/error7404[0m
+
+
+  [2;38m--------[0m
+
+  • Lycée Louis Lachenal, France                              [1m2018 - 2021[0m
+[3m[0m[3m[0m  [3mStudent Developer[0m
+    • Learned the basics of computer science, including programming,
+    algorithms, and data structures.
+    • Completed [1mIoT projects[0m, and mobile development using [1mFlutter[0m.
+
+

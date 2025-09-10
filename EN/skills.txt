@@ -1,0 +1,63 @@
+[38;5;76m❯[39m [32mglow[39m [4mskills.md[0m
+
+[0m[39m[49m  [1m[38;5;228m[48;5;63m Skills [0m[38;5;252m[49m
+
+     LEVEL      │[1;95m   LANGUAGES   [0m
+ ───────────────┼[1;95m───────────────[0m
+ Very good      │[1;95m Dart[0;3;95m Python[0m
+                │[1;95m C[0;3;95m C++[1;95m Bash[0m
+                │[0m
+ Old knowledge* │[1;95m Arduino[0m
+                │[0m
+ Good           │[1;95m CSS[0;3;95m TS[0;1;95m JS[0m
+                │[1;95m HTML[0;3;95m Markdown[0m
+                │[0m
+ Can use        │[1;95m PostgreSQL[0m
+                │[0;3;95m Node.js[0m
+
+     LEVEL      │[1;92m     TOOLS     [0m
+ ───────────────┼[1;92m───────────────[0m
+ Very good      │[1;92m GitHub Actions[0m
+                │[3;92m Docker[0;1;92m Bash [0m
+                │[3;92m Linux[0m
+                │[0m
+ Old knowledge* │[1;92m Arduino[0m
+                │[0m 
+ Good           │[1;92m Premiere Pro[0m
+                │[3;92m Illustrator[0m
+                │[1;92m Photoshop[0m
+                │[3;92m Android[0m
+                │[1;92m Blender[0m
+                │[0m
+ Can use        │[1;92m Raspberry Pi[0m
+                │[3;92m Nginx[0;1;92m AWS[0m
+
+                │[1;93m   LIBRARY /   [0m
+     LEVEL      │[1;93m    ENGINES    [0m
+ ───────────────┼[1;93m───────────────[0m
+ Very good      │[1;93m Selenium[0m
+                │[3;93m Flutter[0m
+                │[0m
+ Good           │[1;93m Three.js[0m
+                │[0;3;93m Markdown[0m
+                │[1;93m Discord Bot[0m
+                │[3;93m Discord RPC[0m
+                │[0m
+ Can use        │[1;93m Unity[0;3;93m Redis[0m
+                │[0;1;93m Bootstrap[0m
+                │[0;3;93m Unreal Engine[0m
+                │[0;1;93m React[0m
+
+ *It's skills I used to be very
+  good at, but I haven't used in
+  a while.
+
+
+[38;5;76m❯[39m [32mglow[39m [4mlanguage.md[0m
+
+[0m[39m[49m  [1m[38;5;228m[48;5;63m Language [0m[38;5;252m[49m
+
+    LANGUAGE    │ LEVEL
+ ───────────────┼────────
+ French         │ Native
+ English        │ B2
