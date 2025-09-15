@@ -19,7 +19,7 @@
  ───────────────┼[1;92m───────────────[0m
  Very good      │[1;92m GitHub Actions[0m
                 │[3;92m Docker[0;1;92m Bash [0m
-                │[3;92m Linux[0m
+                │[3;92m Linux[0;1;92m Git[0m
                 │[0m
  Old knowledge* │[1;92m Arduino[0m
                 │[0m 
@@ -28,9 +28,9 @@
                 │[1;92m Photoshop[0m
                 │[3;92m Android[0m
                 │[1;92m Blender[0m
+                │[3;92m Raspberry Pi[0m
                 │[0m
- Can use        │[1;92m Raspberry Pi[0m
-                │[3;92m Nginx[0;1;92m AWS[0m
+ Can use        │[1;92m Nginx[0;1;92m AWS[0m
 
                 │[1;93m   LIBRARY /   [0m
      LEVEL      │[1;93m    ENGINES    [0m
@@ -39,14 +39,14 @@
                 │[3;93m Flutter[0m
                 │[0m
  Good           │[1;93m Three.js[0m
-                │[0;3;93m Markdown[0m
-                │[1;93m Discord Bot[0m
                 │[3;93m Discord RPC[0m
+                │[1;93m Discord Bot[0m
                 │[0m
  Can use        │[1;93m Unity[0;3;93m Redis[0m
-                │[0;1;93m Bootstrap[0m
-                │[0;3;93m Unreal Engine[0m
-                │[0;1;93m React[0m
+                │[1;93m Bootstrap[0m
+                │[3;93m Unreal Engine[0m
+                │[1;93m React[0m
+                │[3;93m Firebase[0m
 
  *It's skills I used to be very
   good at, but I haven't used in
