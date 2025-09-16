@@ -2,47 +2,46 @@
 
   [1m[38;5;228m[48;5;63m Experiences [0m
 
-  • Amiltone, Lyon, France.                    [1mNovembre 2024 - April 2025[0m
+  • Amiltone, Lyon, France.                            [1mNovembre 2024 - April 2025[0m
 [3m[0m[3m[0m  [3mJunior Developer (internship)[0m
-    • Developed a [1mresponsive front-end[0m in [1mFlutter[0m for web, mobile, and
-    tablet, in collaboration with design and back-end teams.
-    • Integrated [1mREST APIs[0m to ensure seamless front/back-end
-    communication.
-    • Drove development [1mautonomously[0m, troubleshooting issues and
-    delivering features without direct supervision.
+    • Developed a [1mresponsive front-end[0m in [1mFlutter[0m for web, mobile, and tablet, in
+    collaboration with design and back-end teams.
+    • Integrated [1mREST APIs[0m to ensure seamless front/back-end communication.
+    • Drove development [1mautonomously[0m, troubleshooting issues and delivering
+    features without direct supervision.
 
 
   [2;38m--------[0m
 
-  • 42 Lyon School, Lyon, France.               [1mNovember 2021 - June 2025[0m
+  • 42 Lyon School, Lyon, France.                       [1mNovember 2021 - June 2025[0m
 [3m[0m[3m[0m  [3mStudent Developer[0m
-    • Completed various projects with a focus on problem-solving,
-    algorithms, and software development.
+    • Completed various projects with a focus on problem-solving, algorithms, and
+    software development.
     • Applied [1mC[0m, [1mC++[0m, [1mPython[0m, and [1mGit[0m in real-world coding exercises.
-    • Collaborated with peers in [1mpeer-to-peer learning[0m, honing teamwork
-    and communication skills.
+    • Collaborated with peers in [1mpeer-to-peer learning[0m, honing teamwork and
+    communication skills.
 
 
   [2;38m--------[0m
 
   • Open Source
 [3m[0m[3m[0m  [3mContributor[0m
-    • Contributed to the development of various [1mopen-source projects[0m,
-    including the creation of new features and bug fixes.
+    • Contributed to the development of various [1mopen-source projects[0m, including
+    the creation of new features and bug fixes.
     • Collaborated with other developers to improve the quality and
     functionality of the software.
-    • Participated in [1mcode reviews[0m and provided constructive feedback to
-    improve code quality.
+    • Participated in [1mcode reviews[0m and provided constructive feedback to improve
+    code quality.
 [1m[0m    [1mFor more information, check out my GitHub profile: [0m
 [0m    [1;32mhttps://github.com/error7404[0m
 
 
   [2;38m--------[0m
 
-  • Lycée Louis Lachenal, France                              [1m2018 - 2021[0m
+  • Lycée Louis Lachenal, France                                      [1m2018 - 2021[0m
 [3m[0m[3m[0m  [3mStudent Developer[0m
-    • Learned the basics of computer science, including programming,
-    algorithms, and data structures.
+    • Learned the basics of computer science, including programming, algorithms,
+    and data structures.
     • Completed [1mIoT projects[0m, and mobile development using [1mFlutter[0m.
 
 

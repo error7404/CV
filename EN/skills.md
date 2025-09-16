@@ -1,40 +1,52 @@
 # Skills
 
 | LEVEL          | LANGUAGES
-|----------------|---------------------------
-| Very good      | Dart Python C C++ Bash
+|----------------|-------------
+| Very good      | Dart Python
+|                | C C++ Bash
 |                |
 | Old knowledge* | Arduino
 |                |
-| Good           | CSS3 HTML5 Markdown
-|                | Typescript Javascript
+| Good           | CSS TS JS
+|                | HTML Markdown
 |                |
-| Can use        | PostgreSQL Node.js                
+| Can use        | PostgreSQL
+|                | Node.js
 
 
 | LEVEL          | TOOLS
-|----------------|----------------------------
-| Very good      | GitHub Actions Linux Docker
-|                | Bash
+|----------------|----------------
+| Very good      | GitHub Actions
+|                | Docker Bash
+|                | Linux Git
 |                |
 | Old knowledge* | Arduino
 |                |
-| Good           | Android Photoshop
-|                | Illustrator Premiere Pro
-|                |
-| Can use        | Raspberry Pi Nginx AWS
+| Good           | Premiere Pro
+|                | Illustrator
+|                | Photoshop
+|                | Android
 |                | Blender
+|                | Raspberry Pi
+|                |
+| Can use        | Nginx AWS
 
 
-| LEVEL          | LIBRARY / ENGINES
-|----------------|------------------------------------
-| Very good      | Selenium Flutter
+| LEVEL          | LIBRARY /
+|                | ENGINES
+|----------------|----------
+| Very good      | Selenium
+|                | Flutter
 |                |
-| Good           | Three.js Markdown
-|                | Discord Bot/RPC
+| Good           | Three.js
+|                | Discord RPC
+|                | Discord Bot
 |                |
-| Can use        | Unity Bootstrap Redis
-|                | Unreal Engine React
+| Can use        | Unity Redis
+|                | Bootstrap
+|                | Unreal Engine
+|                | React
+|                | Firebase
 
 *It's skills I used to be very good at, but I haven't used in a while.
 

@@ -4,7 +4,7 @@
 tmux new-session -d -s CV
 
 # Resize the tmux window to simulate A4 aspect ratio
-tmux resize-window -x 110 -y 88
+tmux resize-window -x 115 -y 88
 
 # Split the terminal into a grid
 tmux split-window -v       # Horizontal split (bottom right)

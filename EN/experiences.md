@@ -1,6 +1,6 @@
 # Experience
 
-- Amiltone, Lyon, France.           **Novembre 2024 - April 2025**
+- Amiltone, Lyon, France.                            **Novembre 2024 - April 2025**
 *Junior Developer (internship)*
 
   - Developed a **responsive front-end** in **Flutter** for web, mobile, and tablet, in collaboration with design and back-end teams.
@@ -9,7 +9,7 @@
   
 ---
   
-- 42 Lyon School, Lyon, France.      **November 2021 - June 2025**
+- 42 Lyon School, Lyon, France.                       **November 2021 - June 2025**
 *Student Developer*
 
   - Completed various projects with a focus on problem-solving, algorithms, and software development.
@@ -28,7 +28,7 @@
 
 ---
 
-- Lycée Louis Lachenal, France                     **2018 - 2021**
+- Lycée Louis Lachenal, France                                      **2018 - 2021**
 *Student Developer*
 
   - Learned the basics of computer science, including programming, algorithms, and data structures.
